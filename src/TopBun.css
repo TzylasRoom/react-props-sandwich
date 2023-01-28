@@ -1,0 +1,8 @@
+
+.top-bun{
+background-image: radial-gradient(#DEB887	 20%, transparent 20%),
+radial-gradient(#DEB887	 20%, transparent 20%);
+background-color: #e53935;
+background-position: 0 0, 50px 50px;
+background-size: 100px 30px;
+}

@@ -1,0 +1,18 @@
+
+.lettue {
+background: repeating-linear-gradient(
+    90deg,
+    transparent,
+    transparent 50px,
+    rgb(255, 255, 255) 5px,
+    rgb(255, 255, 255) 12px,
+    transparent 100px,
+    transparent 100px,
+    rgb(253, 253, 252) 63px,
+    rgba(244, 244, 244, 0.959) 69px,
+    transparent 69px,
+    transparent 116px,
+    rgb(52, 234, 52) 116px,
+    rgb(255, 255, 255) 166px
+  );
+}
